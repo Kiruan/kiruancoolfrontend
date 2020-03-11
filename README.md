@@ -1,4 +1,4 @@
-# kiruancoolfronten
+# kiruancoolfrontend
 
 ## Project setup
 ```
